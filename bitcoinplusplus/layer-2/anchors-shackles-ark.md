@@ -1,12 +1,14 @@
 ---
-title: Anchors & Shackles (Ark)
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://www.youtube.com/watch?v=OBt1nS14Ac4
+title: 'Anchors & Shackles (Ark)'
+transcript_by: 'mazubukuntalo8-collab via review.btctranscripts.com'
+media: 'https://www.youtube.com/watch?v=OBt1nS14Ac4'
+date: '2023-06-24'
 tags:
-  - ark
+  - 'ark'
 speakers:
-  - Burak Keceli
-date: 2023-06-24
+  - 'Burak Keceli'
+categories:
+  - 'security-problems'
 ---
 So hey guys, my name is Borat.
 Today I'll be talking about something that I've been working on for the past, let's say, six months or so.
