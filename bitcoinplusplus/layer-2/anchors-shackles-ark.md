@@ -5,6 +5,7 @@ media: 'https://www.youtube.com/watch?v=OBt1nS14Ac4'
 date: '2023-06-24'
 tags:
   - 'ark'
+  - 'c-lightning'
 speakers:
   - 'Burak Keceli'
 categories:
