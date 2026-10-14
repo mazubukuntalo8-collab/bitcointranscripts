@@ -799,11 +799,11 @@ Audience: Let's give the speaker a round of applause.
 
 Borat: Thank you, everyone.
 
-## Editorial notes on technical terminology
+ Editorial notes on technical terminology
 
 A few terms in the original speech-to-text transcript require verification against the recording or the speaker's slides before publication:
 
-- ATLC: Retained as the speaker's proposed protocol primitive. Its exact expansion was not clearly established in the source transcript.
+-ATLC: Retained as the speaker's proposed protocol primitive. Its exact expansion was not clearly established in the source transcript.
 - APO, CTV and OP_CAT: Retained as Bitcoin script or covenant-related terminology. Their precise roles in the proposed construction need technical verification.
 - PTLC, HTLC, MPP, CPFP and SIGHASH_ALL: Standard Bitcoin and Lightning terminology, retained and normalized where the intended meaning was clear.
 - Factory expiry and recovery windows: The four-week factory lifetime and two-week sender-refund window are presented as design examples, not independently verified protocol specifications.
